@@ -18,6 +18,10 @@ public class RegistroGrupo : MonoBehaviour
        // Nombre completo: Danna Betancourt Gaitan
         // Fecha: 27/07/2024
         // Hora: 18:13
+
+        // Nombre completo: Daniela Porras Matiz
+        // Fecha: 27/07/2024
+        // Hora: 18:23
     }
     
     // Update is called once per frame
