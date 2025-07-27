@@ -11,7 +11,7 @@ public class RegistroGrupo : MonoBehaviour
         // Fecha: 27/07/2024
         // Hora: 9:39
 
-        //Nombre	completo:	Laura Manuela Calderon Duque	
+        //Nombre completo: Laura Manuela Calderon Duque	
        //Fecha:	27/07/2025	
        //Hora:	1:32
     }
