@@ -14,6 +14,10 @@ public class RegistroGrupo : MonoBehaviour
         //Nombre completo: Laura Manuela Calderon Duque	
        //Fecha:	27/07/2025	
        //Hora:	1:32
+
+       // Nombre completo: Danna Betancourt Gaitan
+        // Fecha: 27/07/2024
+        // Hora: 18:13
     }
     
     // Update is called once per frame
