@@ -34,6 +34,10 @@ public class RegistroGrupo : MonoBehaviour
         // Nombre completo: Daniela Porras Matiz
         // Fecha: 27/07/2024
         // Hora: 20:00
+
+        // Nombre completo: Laura Manuela Calderon Duque
+        // Fecha: 27/07/2024
+        // Hora: 20:22
     }
     
     // Update is called once per frame
